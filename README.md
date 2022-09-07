@@ -1,2 +1,2 @@
 # myrepo
-this is from remote
+this is from local
